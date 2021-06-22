@@ -1,0 +1,14 @@
+date: 22 Jun 2021 | 07:05:24 PM
+location: mumbai
+temperature: 30.99000000000001
+weather: haze
+humidity: 79
+wind_speed: 6.17
+
+date: 22 Jun 2021 | 07:15:00 PM
+location: mumbai
+temperature: 30.99000000000001
+weather: haze
+humidity: 79
+wind_speed: 6.17
+
